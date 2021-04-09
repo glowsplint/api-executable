@@ -1,0 +1,10 @@
+build
+dist
+responses
+__pycache__
+.ipynb_checkpoints
+
+schedules*.csv
+API Executable.exe
+BigSchedules Port Pairs - testing.csv
+secrets.py
